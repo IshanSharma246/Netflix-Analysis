@@ -19,16 +19,16 @@ This project is part of my Data Science portfolio.
 ## 📸 Key Visuals
 
 ### Movies vs TV Shows
-![Movies vs TV Shows](images/movies_vs_tv.png)
+![Movies vs TV Shows](Visualizations/Movies_vs_TV_Shows.png)
 
 ### Top 10 Genres
-![Top Genres](images/top_genres.png)
+![Top Genres](Visualizations/Top_10_Genres.png)
 
 ### Ratings Distribution
-![Ratings Distribution](images/ratings_distribution.png)
+![Ratings Distribution](Visualizations/Distribution_of_Content_Ratings.png)
 
 ### Movie Duration Trend (Boxplot)
-![Duration Trend](images/duration_boxplot.png)
+![Duration Trend](Visualizations/Distribution_of_Movies_Duration_by_Release_Year.png)
 
 
  Dataset Details
