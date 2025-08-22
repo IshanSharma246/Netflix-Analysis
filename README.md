@@ -33,6 +33,7 @@ This project is part of my Data Science portfolio.
 
  Dataset Details
 Source: Kaggle – Netflix Movies and TV Shows Dataset
+ (https://www.kaggle.com/datasets/shivamb/netflix-shows/versions/2/data) 
 
 Rows: ~5,800
 
