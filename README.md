@@ -1,5 +1,5 @@
- Netflix Movies & TV Shows Data Analysis
- Project Overview
+Netflix Movies & TV Shows Data Analysis  Project Overview
+
 This project performs Exploratory Data Analysis (EDA) on the Netflix Movies and TV Shows dataset (~5,800 titles).
 
 The goal is to uncover insights about Netflix’s catalog:
@@ -15,6 +15,21 @@ Audience ratings breakdown
 Duration analysis (movie runtimes & number of TV show seasons)
 
 This project is part of my Data Science portfolio.
+
+## 📸 Key Visuals
+
+### Movies vs TV Shows
+![Movies vs TV Shows](images/movies_vs_tv.png)
+
+### Top 10 Genres
+![Top Genres](images/top_genres.png)
+
+### Ratings Distribution
+![Ratings Distribution](images/ratings_distribution.png)
+
+### Movie Duration Trend (Boxplot)
+![Duration Trend](images/duration_boxplot.png)
+
 
  Dataset Details
 Source: Kaggle – Netflix Movies and TV Shows Dataset
@@ -55,7 +70,7 @@ TV Shows are usually 1–2 seasons (limited series are common).
 
 Boxplot shows movie durations trending slightly shorter in recent years.
 
-🛠 Tools & Libraries Used
+ Tools & Libraries Used
 Python (Jupyter Notebook)
 
 pandas (data cleaning & manipulation)
